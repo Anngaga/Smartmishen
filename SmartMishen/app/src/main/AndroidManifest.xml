@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SmartMishen">
-        <activity android:name=".picture3"></activity>
+        <activity android:name=".picture3" />
         <activity android:name=".picture2" />
         <activity android:name=".picture1" />
         <activity android:name=".analiz" />
